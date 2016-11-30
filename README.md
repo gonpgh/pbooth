@@ -1,2 +1,2 @@
 # pbooth plan-b
-#s trength
+# strength
